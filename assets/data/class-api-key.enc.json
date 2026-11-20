@@ -3,8 +3,8 @@
   "kind": "class-api-key",
   "algorithm": "PBKDF2-SHA256+A256GCM",
   "iterations": 250000,
-  "salt": "AanHt1eBsgD5m4STJH5qpQ==",
-  "iv": "b6KuX08c9P0QG2T8",
-  "ciphertext": "J88xgVG0FjBjSVFxW59/jjqMMtV49UYVVHIcR1e0mMFpsX1l6Vu85fkhCRezOQQljilmCF6fwqkT6A/rUZj9LYDrR4TrA6IDReYVzyRvdXp8HVuK05k+WIcCixtf7xV0xnbtsAZS4003PvGSCyKFwaO3saJXUl1oBupUVeRL0eFj7WRwVbe4CZCDQoPStPty+LA8sap80hJiS9ouYiRek/DfEQDgK1F5kiU9bKim81lTNviCu7NsAoYNCVE6W/2KfFZYnWxhyC7yciFBjdmbl6sYLQY2FhSI82DuJTTdNbMnftGZ67JBJWBx",
-  "updatedAt": "2026-08-24T00:48:23.139Z"
+  "salt": "xvjoGhOe48YjENrkZAynAQ==",
+  "iv": "Zbe5jM3CBh8ovfvb",
+  "ciphertext": "msVJse8ywzkGxVKT/dtRzEdnUrm2qnj3zt69dkAMiAJmmdMygmW0i3YdztwIwGnH687cAjhAQnu5BXexdbk7xnv1C6RpGvWK77D6/wZAGG9TI7RhH+zXHqkWk/EY+8qMQzc2WGNP08wb+ISVvE3UYZKIWxZqKQJ5wDa3JpJCkbs7+28j3q4rfUdLsV3PgVSkUXurNHR0tBkcEO7Kg3uGik7289T8FxhCKwEjaa78DgMbOmL1bAdenQwYTiJ22kcscUvaD0dkrc3/ag1Vu9BImEswNM3LJULHjK7FJXkQ7b90DEFlZDndICor",
+  "updatedAt": "2026-11-20T01:12:13.893Z"
 }
